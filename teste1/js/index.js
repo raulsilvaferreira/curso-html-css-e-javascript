@@ -1,0 +1,3 @@
+function GetPassword {
+    document.getElementById 
+}
